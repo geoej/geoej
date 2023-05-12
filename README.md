@@ -17,11 +17,9 @@
 
 ### 🧐 Me in a nutshell:
 
-I am a research data scientist, with more than 10 years of experience with AI modelling, mapping, database and software developmemt. 
+I am a research data scientist, with more than 10 years of experience with AI , mapping, database and software developmemt. 
 
-### 🧐 Something more:
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29163695/138174917-a9ec8b4e-0658-41e9-8ec1-fb4e744f4fe0.gif" width="400px"/>
+<!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29163695/138174917-a9ec8b4e-0658-41e9-8ec1-fb4e744f4fe0.gif" width="400px"/>-->
 
 - 🌱 &nbsp; I’m currently working on [**CropBASE**](http://cropbase.co.uk)
 - 📚 &nbsp; I’m currently studying Generative AI with applications in sustainability 
@@ -31,5 +29,5 @@ I am a research data scientist, with more than 10 years of experience with AI mo
 - 💬 &nbsp; Ask me about machine learning or deep learning, I am happy to help and collaborate
 
 <p align="center">
-    <img title="" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieled3&layout=compact&theme=react&border=61dafb&hide_border=true"/>
+    <img title="" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoej&layout=compact&theme=react&border=61dafb&hide_border=true"/>
 </p>
