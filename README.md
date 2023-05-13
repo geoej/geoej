@@ -1,10 +1,10 @@
 <h3 align="center">
-  Hi, I'm Ebrahim!
+  Hi, I'm EJ!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h3>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230A05FF&size=25&center=true&vCenter=true&lines=Senior+Data+Scientist;Machine+Learning+Engineer;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230A05FF&size=25&center=true&vCenter=true&lines=Geospatial+Data+Scientist;AI+For+Sustainability;Always+learning+new+things">
 </p>
 
 ![R](https://img.shields.io/badge/R-Expert-yellow)
@@ -21,7 +21,7 @@ I am a research data scientist, with more than 10 years of experience with AI , 
 
 <!--<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/29163695/138174917-a9ec8b4e-0658-41e9-8ec1-fb4e744f4fe0.gif" width="400px"/>-->
 
-- 🌱 &nbsp; I’m currently working on [**CropBASE**](http://cropbase.co.uk)
+- 🌱 &nbsp; I’m currently working on [**CropBASE**](http://cropbase.co.uk) and building a database for European Comission under the project RADIANT Realizing dynamic value chains for underutilised crops (https://www.radiantproject.eu)
 - 📚 &nbsp; I’m currently studying Generative AI with applications in sustainability 
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [GitHub](https://github.com/geoej/geoej?tab=repositories). 
 - 📚 &nbsp; You can also check my [website](https://geoej.github.io/)  with my projects and some tech speeches about blockchains, neural networks and other interesting stuff
