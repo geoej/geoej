@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%230A05FF&size=25&center=true&vCenter=true&lines=Geospatial+Data+Scientist;AI+For+Sustainability;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%230A05FF&size=25&center=true&vCenter=true&lines=Geospatial+Data+Scientist;AI+For+Sustainability;Always+learning+new+things;Data+Engineer">
 </p>
 
 ![R](https://img.shields.io/badge/R-Expert-yellow)
