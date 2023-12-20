@@ -24,7 +24,7 @@ I am a research data scientist, with more than 10 years of experience with AI , 
 - 🌱 &nbsp; I’m currently working on [**CropBASE**](http://cropbase.co.uk) and building a database for European Comission under the project RADIANT Realizing dynamic value chains for underutilised crops (https://www.radiantproject.eu)
 - 📚 &nbsp; I’m currently studying Generative AI with applications in sustainability 
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [GitHub](https://github.com/geoej/geoej?tab=repositories). 
-- 📚 &nbsp; You can also check my [website](https://geoej.github.io/)  with my projects and some tech speeches.
+- 📚 &nbsp; You can also check my - work in progress!- [website](https://geoej.netlify.app)  with my projects and some tech speeches.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/geoej)
 - 💬 &nbsp; Ask me about machine learning or deep learning, I am happy to help and collaborate
 
